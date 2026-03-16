@@ -2,8 +2,8 @@
 
 
 <p align="left">
-  https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811
-  https://img.shields.io/badge/DAX-Expressions-0A84C1
-  https://img.shields.io/badge/UDFs-Custom%20Functions-6A5ACD
-  https://img.shields.io/badge/Power%20Query-Custom%20Functions-4CAF50
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811" />
+  <img src="https://img.shields.io/badge/DAX-Expressions-0A84C1" />
+  <img src="https://img.shields.io/badge/UDFs-Custom%20Functions-6A5ACD" />
+  <img src="https://img.shields.io/badge/Power%20Query-Custom%20Functions-4CAF50" />
 </p>
