@@ -1,5 +1,4 @@
 
-<br>
 
 ![Juls-BI Banner](./Assets/Juls-BI%20GitHub.png)
 
