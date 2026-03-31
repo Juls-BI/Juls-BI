@@ -10,6 +10,8 @@
 
 Here on my GitHub, I share resources to help you improve digital accessibility in your Power BI projects, enhance data quality, and explore anything else I’ve enjoyed creating along the way.
 
+<br>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811" />
   <img src="https://img.shields.io/badge/DAX-Expressions-0A84C1" />
