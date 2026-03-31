@@ -1,7 +1,7 @@
 
 <br>
 
-![Your Banner](./assets/Juls-BI%20GitHub.png)
+![Juls-BI Banner](./Assets/Juls-BI%20GitHub.png)
 
 <br>
 
