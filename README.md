@@ -1,4 +1,10 @@
-![Juls BI](./assets/Juls-BI%20GitHub.png)
+
+<br>
+
+![Your Banner](./assets/Juls-BI%20GitHub.png)
+
+<br>
+
 
 ### Hey there! I’m Juliana, a data and reporting enthusiast with a background in Physical Oceanography. I’ve spent over 15 years uncovering stories hidden in data, and since 2020 I’ve been using Power BI to build insightful, scalable reports and visualisations.
 
