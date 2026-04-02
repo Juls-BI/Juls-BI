@@ -1,6 +1,6 @@
 
 
-![Juls-BI Banner](./Assets/Juls-BI%20GitHub.png)
+![Juls-BI Banner](./Assets/Juls-BI%20GitHub.jpg)
 
 <br>
 
